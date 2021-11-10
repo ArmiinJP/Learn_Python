@@ -1,4 +1,8 @@
 
+##############
+## OPTION 1 ##
+##############
+
 import string
 
 # alphabet = [
@@ -27,4 +31,14 @@ input_str = input()
 set_input_str_low = set(input_str.lower())
 
 print(is_alphas_exist(set_input_str_low))
+
+#############
+## OPTION2 ##
+#############
+
+#input_str = input()
+
+#set_input_str_low = set(input_str.lower())
+#set_input_str_low.remove(" ")
+#print(set_input_str_low == set(string.ascii_lowercase))
 
