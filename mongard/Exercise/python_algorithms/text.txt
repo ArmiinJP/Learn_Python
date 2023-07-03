@@ -1,0 +1,28 @@
+ساختارهای داده اصلی
+- int
+- float
+- string
+- bool
+ساختارهای داده فرعی داخلی پایتون
+- list
+- tuple
+- dict
+- set
+ساختارهای داده فرعی خارجی پایتون
+- stack
+- queue
+- tree
+- linked list
+
+برخی الگوریتم ها در پایتون:
+الگوریتم های پیمایش درختی یا traverse
+- in_order
+- pre_order
+- post_order
+الگوریتم های مرتب‌سازی
+- bubble sort
+- merge sort
+- insertion sort
+الگوریتم های جستوجو
+- linear search
+- binayry search
